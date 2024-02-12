@@ -1,4 +1,4 @@
-# This is a [Next.js](https://nextjs.org/) project Starter Code to help developers save time on project structure. [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# This is a [Next.js](https://nextjs.org/) project Starter Code to help developers save time on project structure.
 
 ## Tech Stack->
     1.Next.js
